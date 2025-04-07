@@ -6,7 +6,7 @@ title: LA-RCS (LLM-Agent Based Robot Control System)
 authors:
     Taek-Hyun Park<sup>1†</sup>, Young-Jun Choi<sup>1†</sup>, Seung-Hoon Shin<sup>1†</sup>, Chang-Eun Lee<sup>2</sup> ,<u>Kwangil Lee</u><sup>1,3*</sup>
 affiliations:
-    Department of Artificial Intelligence Engineering, National Korea Maritime & Ocean University, Busan, Korea<sup>1</sup><br> Depense & Safety ICT Research Department, ETRI, Daejeon, Korea<sup>2</sup><br> Department of Artificial Intelligence Research, DMASTA, Busan, Korea<sup>3</sup> 
+    <sup>1</sup>Department of Artificial Intelligence Engineering, National Korea Maritime & Ocean University, Busan, Korea<br> <sup>2</sup>Depense & Safety ICT Research Department, ETRI, Daejeon, Korea<br> <sup>3</sup>Department of Artificial Intelligence Research, DMASTA, Busan, Korea 
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 code: https://github.com/Forharu40/kmou2024_team3_robot
 ---
