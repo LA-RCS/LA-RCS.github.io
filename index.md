@@ -7,8 +7,8 @@ authors:
     Taek-Hyun Park<sup>1†</sup>, Young-Jun Choi<sup>1†</sup>, Seung-Hoon Shin<sup>1†</sup>, Chang-Eun Lee<sup>2</sup> ,<u>Kwangil Lee</u><sup>1,3*</sup>
 affiliations:
     <sup>1</sup>Department of Artificial Intelligence Engineering, National Korea Maritime & Ocean University, Busan, Korea<br> <sup>2</sup>Depense & Safety ICT Research Department, ETRI, Daejeon, Korea<br> <sup>3</sup>Department of Artificial Intelligence Research, DMASTA, Busan, Korea 
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-code: https://github.com/Forharu40/kmou2024_team3_robot
+paper: https://www.arxiv.org/abs/2505.18214
+code: https://github.com/Thrillcrazyer/LA-RCS
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -111,9 +111,8 @@ LA-RCS (LLM-agent-based robot control system) is a sophisticated robot control s
 ## Citation
 ```
 @article{LA-RCS (LLM-Agent Based Robot Control System),
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Teak-Hyun Park, Seung-Hun Shin, Young-Jun Choi, , Kwangil Lee},
-  journal={IMETI2024},
+  author={Teak-Hyun Park, Seung-Hun Shin, Young-Jun Choi, Chang-Eun Lee, Kwangil Lee},
+  conference={IMETI2024},
   year={2024}
 }
 ```
