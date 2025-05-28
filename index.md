@@ -7,7 +7,7 @@ authors:
     Taek-Hyun Park<sup>1†</sup>, Young-Jun Choi<sup>1†</sup>, Seung-Hoon Shin<sup>1†</sup>, Chang-Eun Lee<sup>2</sup> ,<u>Kwangil Lee</u><sup>1,3*</sup>
 affiliations:
     <sup>1</sup>Department of Artificial Intelligence Engineering, National Korea Maritime & Ocean University, Busan, Korea<br> <sup>2</sup>Depense & Safety ICT Research Department, ETRI, Daejeon, Korea<br> <sup>3</sup>Department of Artificial Intelligence Research, DMASTA, Busan, Korea 
-paper: https://sensors.myu-group.co.jp/index.php?theme=archives
+paper: https://arxiv.org/pdf/2505.18214
 code: https://github.com/Forharu40/kmou2024_team3_robot
 ---
 
