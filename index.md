@@ -8,7 +8,6 @@ authors:
 affiliations:
     <sup>1</sup>Department of Artificial Intelligence Engineering, National Korea Maritime & Ocean University, Busan, Korea<br> <sup>2</sup>Depense & Safety ICT Research Department, ETRI, Daejeon, Korea<br> <sup>3</sup>Department of Artificial Intelligence Research, DMASTA, Busan, Korea 
 paper: https://arxiv.org/abs/2505.18214
-code: https://github.com/Thrillcrazyer/LA-RCS
 ---
 
 <!-- Using HTML to center the abstract -->
