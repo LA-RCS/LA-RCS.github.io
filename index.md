@@ -90,10 +90,10 @@ LA-RCS (LLM-agent-based robot control system) is a sophisticated robot control s
 |  | Request - obstacle navigation | GPT-4-Turbo | GPT-4o |
 | --- | --- | --- | --- |
 | 1 | Move forward avoiding obstacles | Failure - Step : 16 | Success - Step : 7 |
-| 2 | Move 2 meters in total, and when an obstacle appears, turn right and activate the buzzer. | Success - Step : 8 | Success - Step : 5 |
+| 2 | Move 2 meters in total, and when an obstacle appears, turn right <br> and activate the buzzer. | Success - Step : 8 | Success - Step : 5 |
 | 3 | Move to find the bossh box while avoiding obstacles | Failure - Step : 15 | Success - Step : 8 |
-| 4 | Rotates around once to observe the surroundings and moves 1 meter in a direction without obstacles | Failure - Step : 5 | Failure - Step : 15 |
-| 5 | After observing an obstacle in front, move behind the observation object, stop, and activate the buzzer. | Failure - Step : 3 | Success - Step : 9 |
+| 4 | Rotates around once to observe the surroundings and moves <br> 1 meter in a direction without obstacles | Failure - Step : 5 | Failure - Step : 15 |
+| 5 | After observing an obstacle in front, move behind the observation <br> object, stop, and activate the buzzer. | Failure - Step : 3 | Success - Step : 9 |
 
 
 ### Situation awareness
