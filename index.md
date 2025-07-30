@@ -102,9 +102,9 @@ LA-RCS (LLM-agent-based robot control system) is a sophisticated robot control s
 | --- | --- | --- | --- |
 | 1 | Describe the features of the object in front | Success - Step : 0 | Success - Step : 0 |
 | 2 | Detects surroundings and describes only blue objects in Korean | Success - Step : 6 | Success - Step : 7 |
-| 3 | Move forward 0.5 meters, observe the surroundings, and tell me the name of the box. | Success - Step : 3 | Success - Step : 7 |
-| 4 | After moving 2 meters, if there is a paper in front of you, print out what is written on the paper. | Failure - Step : 3 | Success - Step : 10 |
-| 5 | Please tell me the contact information of the Ministry of Science and ICT on the paper observed in front. | Failure - Step : 4 | Success - Step : 0 |
+| 3 | Move forward 0.5 meters, observe the surroundings, and tell me <br> the name of the box. | Success - Step : 3 | Success - Step : 7 |
+| 4 | After moving 2 meters, if there is a paper in front of you, print <br> out what is written on the paper. | Failure - Step : 3 | Success - Step : 10 |
+| 5 | Please tell me the contact information of the Ministry of Science <br> and ICT on the paper observed in front. | Failure - Step : 4 | Success - Step : 0 |
 
 
 ## Citation
